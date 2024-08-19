@@ -1,4 +1,4 @@
-//Experiment 1 - To study and implement C++ Program Structure (Data Types)
+//Experiment 2 - To study and implement C++ Program Structure (Data Types)
 //Name - Mahil Anthony
 //PRN -  23070123080
 //Batch -  ENTC B1
