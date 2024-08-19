@@ -3,7 +3,7 @@ This repository contains experiments 1, 2, 3, 4 which are related to the basics 
 
 # Data Types
 # EXPERIMENT 2 (Program 1):
-## Aim : 
+## Aim: 
 To print size of integers, characters, float and string.
 ## Theory: 
 In C++, the size of data types depends on the system architecture. Typically, an *int* is 4 bytes, a *char* is 1 byte, and a *float* is 4 bytes. The size of a *string* varies, as it is a dynamic container class that holds characters and may include additional memory for internal management. Sizes can vary based on the compiler and platform.
