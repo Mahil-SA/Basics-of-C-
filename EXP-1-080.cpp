@@ -18,7 +18,7 @@ string a;
 
 
 //ADDITION
-#include <i/ostream>
+#include <iostream>
 using namespace std;
 int main()
 { int a,b,c;
