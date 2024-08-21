@@ -46,3 +46,6 @@ staticExample();
 return 0;
 }
 ~~~
+
+# Conclusion
+We have learnt to print the size of integers, floats and other datatypes, and also learnt about void and static example datatypes in C++.
