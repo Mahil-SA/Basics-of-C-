@@ -37,4 +37,5 @@ return 0;
 }
 
 //Output:
-0
+the value of z is: 1
+the value of z is: 1
