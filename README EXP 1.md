@@ -98,3 +98,6 @@ cout << "the RESULT is "<<c;
 return 0;
 } 
 ~~~
+
+# Conclusion
+We have learnt to download VS code and learnt basic program to add, divide, multiply and diplay our name in C++.
