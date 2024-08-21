@@ -36,6 +36,12 @@ cout << "the sum is "<<c;
 return 0;
 } 
 
+//Output
+/*
+enter first number 2
+enter the second number 4
+the sum is 6
+*/
 
 //DIVISION
 #include <iostream>
@@ -51,6 +57,13 @@ cout << "the QUOTIENT is "<<c;
 return 0;
 }
 
+//Output
+/*
+enter first number 4
+enter the second number 2
+the QUOTIENT is 2
+*/
+
 //MULTIPLICATION
 #include <iostream>
 using namespace std;
@@ -64,3 +77,10 @@ c=a*b;
 cout << "the RESULT is "<<c;
 return 0;
 } 
+
+//Output
+/*
+enter first number 5
+enter the second number 2
+the RESULT is 10
+*/
