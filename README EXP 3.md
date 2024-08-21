@@ -76,3 +76,6 @@ CODE:
     return 0;
 }
 ~~~
+
+# Conclusion
+We have learnt about operators in C++ and how to use them in a program.
