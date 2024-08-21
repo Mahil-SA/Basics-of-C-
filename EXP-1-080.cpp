@@ -16,6 +16,11 @@ string a;
     return 0;
 } 
 
+//Output
+/*
+Enter your name  Mahil
+Hello Mahil
+*/
 
 //ADDITION
 #include <iostream>
