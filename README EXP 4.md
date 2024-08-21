@@ -42,3 +42,6 @@ int main()
 
 }
 ~~~
+
+# Conclusion
+In C++ we have learnt about avrious types of bitwise operators and used them in our programs.
