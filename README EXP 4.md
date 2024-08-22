@@ -45,3 +45,10 @@ int main()
 
 # Conclusion
 In C++ we have learnt about avrious types of bitwise operators and used them in our programs.
+
+### Outputs
+
+## Experiment 4:
+
+### Program 1 (Bitwise values of gates):
+![image](https://github.com/user-attachments/assets/e55784fd-823f-463f-b885-2eb9b412d8b8)
