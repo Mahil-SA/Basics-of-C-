@@ -80,7 +80,7 @@ CODE:
 # Conclusion
 We have learnt about operators in C++ and how to use them in a program.
 
-### Outputs
+# Outputs
 
 ## Experiment 3:
 
