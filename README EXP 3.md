@@ -79,3 +79,19 @@ CODE:
 
 # Conclusion
 We have learnt about operators in C++ and how to use them in a program.
+
+### Outputs
+
+## Experiment 3:
+
+### Program 1 (a==b):
+![image](https://github.com/user-attachments/assets/e0e2b434-c164-49c0-bb91-df245d51f893)
+
+### Program 2 (a!=b):
+![image](https://github.com/user-attachments/assets/d7931ed5-b869-43f6-8fca-eff809f91f0a)
+
+### Program 3 (a&&b : true):
+![image](https://github.com/user-attachments/assets/b678837d-43d1-4d64-8653-bd609fe78d2e)
+
+### Program 4 :
+![image](https://github.com/user-attachments/assets/eb756a7d-6394-4a59-9bf0-9e3599aef3a3)
