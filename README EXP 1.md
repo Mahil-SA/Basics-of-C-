@@ -101,3 +101,19 @@ return 0;
 
 # Conclusion
 We have learnt to download VS code and learnt basic program to add, divide, multiply and diplay our name in C++.
+
+# Outputs:
+
+## Experiment 1:
+
+### Program 1 (Print `Hello Name`):
+![image](https://github.com/user-attachments/assets/f52ea793-5121-4e2a-b199-cf5bce9bdd66)
+
+### Program 2 (Addition):
+![image](https://github.com/user-attachments/assets/f78fd86e-7f3b-4107-b4ec-92cc37953a41)
+
+### Program 3 (Division):
+![image](https://github.com/user-attachments/assets/5fde06be-0943-47a1-b31e-c0dd3aa2ad75)
+
+### Program 4 (Multiplication):
+![image](https://github.com/user-attachments/assets/161535ae-e917-4d91-8ffa-1c27703aff8d)
