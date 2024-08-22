@@ -49,3 +49,13 @@ return 0;
 
 # Conclusion
 We have learnt to print the size of integers, floats and other datatypes, and also learnt about void and static example datatypes in C++.
+
+### Outputs
+
+## Experiment 2:
+
+### Program 1 (Size of Data Types):
+![image](https://github.com/user-attachments/assets/7b7a8450-3091-4601-9cc3-5cff0e91826b)
+
+### Program 2 (Value of Z):
+![image](https://github.com/user-attachments/assets/0e4954b3-40c5-4cbc-a5f1-1764143b6f3a)
